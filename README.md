@@ -1,4 +1,4 @@
-# Drone Delivery Serverless
+# Drone Delivery Serverless #
 
 This project contains a reference implementation for two serverless application architectures.
 
